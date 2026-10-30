@@ -266,7 +266,7 @@ notification:
   # 推送渠道配置
   channels:
     feishu:
-      webhook_url: "https://open.feishu.cn/open-apis/bot/v2/hook/ce0a42c3-baec-462c-8048-cbb358c6444b"                 # 飞书机器人 webhook URL
+      webhook_url: ""                 # 飞书机器人 webhook URL
 
     dingtalk:
       webhook_url: ""                 # 钉钉机器人 webhook URL
